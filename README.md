@@ -12,7 +12,7 @@ Instruções gerais:
 • Tenha empatia pelo usuário: exponha menus bem organizados e saídas que sejam atualizadas para cada nova entrada ou que sejam facilmente identificadas após vários cálculos.
 • Tenha empatia pelo usuário: após a finalização de um cálculo, exiba o menu de opções novamente para outros estudos. (Para que o usuário não precise compilar o programa cada vez que quiser fazer um cálculo).
 
-##Funções do programa:
+## Funções do programa:
 Opção de entrada para digitar f, λ, k , , Em e Bm. (Não esqueça de indicar as unidades).)
 
 1. Caso o usuário entre com o valor de f, retornar:
