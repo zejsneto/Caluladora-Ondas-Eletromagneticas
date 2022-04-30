@@ -22,25 +22,25 @@ Opção de entrada para digitar f, λ, k , , Em e Bm. (Não esqueça de indic
 <br>4.3. O valor de ω
 
 2. Caso o usuário entre com o valor de λ, retornar:
-2.1. O valor de f.
-2.2. O valor de k.
-2.3. O valor de ω.
+<br>2.1. O valor de f.
+<br>2.2. O valor de k.
+<br>2.3. O valor de ω.
 
 3. Caso o usuário entre com o valor de k, retornar:
-3.1. O valor de f.
-3.2. O valor de λ.
-3.3. O valor de ω.
+<br>3.1. O valor de f.
+<br>3.2. O valor de λ.
+<br>3.3. O valor de ω.
 
 4. Caso o usuário entre com o valor de ω, retornar:
-4.1. O valor de f.
-4.2. O valor de λ.
-4.3. O valor de k.
+<br>4.1. O valor de f.
+<br>4.2. O valor de λ.
+<br>4.3. O valor de k.
 
 5. Caso o usuário entre com o valor de do campo Bm, retornar:
-5.1. O valor de Em.
+<br>5.1. O valor de Em.
 
 6. Caso o usuário entre com o valor de do campo Em, retornar:
-6.1. O valor de Bm.
+<br>6.1. O valor de Bm.
 
 Não é obrigatório que os cálculos estejam organizados na forma mostrada acima. Foi organizado desta forma para servir de checklist. O importante é que o programa 1) calcule λ, f, k e ω a partir de qualquer um dos parâmetros de onda digitado, que pode ser ou λ ou f ou k ou ω. 2) Calcular amplitude do campo elétrico e campo magnético.
 
