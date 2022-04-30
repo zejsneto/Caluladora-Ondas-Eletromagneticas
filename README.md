@@ -1,6 +1,6 @@
 # Caluladora-Ondas-Eletromagneticas
 
-##Projeto NL1 de Tópicos de Óptica e Física Moderna.
+## Projeto NL1 de Tópicos de Óptica e Física Moderna.
 
 Escreva um programa em linguagem Python relacionado com ondas eletromagnéticas. O programa terá vários cálculos, portanto o time deverá incluir um menu de opções para que o usuário possa escolher a ferramenta que ele necessite (por ex., converter frequência para comprimento de onda e vice-versa; calcular a amplitude do campo elétrico, etc).
 
