@@ -17,9 +17,9 @@ Instruções gerais:
 Opção de entrada para digitar f, λ, k , , Em e Bm. (Não esqueça de indicar as unidades).)
 
 1. Caso o usuário entre com o valor de f, retornar:
-1.1. O valor de λ.
-1.2. O valor de k.
-1.3. O valor de ω
+<br>1.1. O valor de λ.
+<br>3.2. O valor de k.
+<br>4.3. O valor de ω
 
 2. Caso o usuário entre com o valor de λ, retornar:
 2.1. O valor de f.
